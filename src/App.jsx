@@ -1,4 +1,4 @@
-import React, { Component, useState } from "react";
+import React, { useState } from "react";
 /* 컴퍼넌트에서 상태를 관리할 때 사용하는 hooks 중 하나 (미리 정해져 있음) */
 import "./App.css";
 import Box from "./components/Box";
