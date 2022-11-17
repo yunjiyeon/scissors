@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
 }
-.box{
+.box {
   margin: 10px;
   width: 400px;
   height: 550px;
@@ -20,7 +20,7 @@
   margin: 20px auto;
   line-height: 30px;
 }
-.item-img{
+.item-img {
   max-width: 80%;
 }
 
