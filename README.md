@@ -14,4 +14,3 @@ React의 Hooks 중 하나인 **useState**를 활용하여 개발하였습니다.
 
 ## 🚀 Skills 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> 
-<br><br>
