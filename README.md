@@ -1,10 +1,9 @@
 # MINI PROJECT | Rock Scissors Paper GAME
 > React를 활용한 <가위 바위 보> 미니 게임 개발
-
 <br>
+
 * 기여도 : 개인 100% <br> 
 * 기간 : 2022.10
-<br>
 
 ## 📍 Overview
 
